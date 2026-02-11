@@ -1,4 +1,5 @@
-# Olá! Eu sou o Moisés Cristiano Taguchi 👨‍💻🚀
+# 👋 Olá! Eu sou o Moisés Cristiano Taguchi
+### Desenvolvedor Front-End | Angular • Ionic • TypeScript
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moises-taguchi)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moisestaguchi703@gmail.com)
@@ -7,7 +8,7 @@
 
 ## 📊 Estatísticas GitHub
 
-![Moises GitHub stats](https://github-readme-stats.vercel.app/api?username=Moisestaguchi&show_icons=true&theme=dracula&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Moisestaguchi&show_icons=true&theme=dracula&count_private=true)
 
 ---
 
