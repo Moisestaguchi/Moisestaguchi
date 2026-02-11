@@ -43,4 +43,12 @@ Tenho interesse em arquitetura de software, boas práticas, código limpo e cons
 
 ## 🎯 Objetivo
 
-Construir uma carreira sólida na área de tecnologia, evoluindo continuamente e contribuindo para o desenvolvimento de soluções eficientes, escaláveis e bem estruturadas.
+Evoluir como desenvolvedor front-end, aprofundando conhecimentos em arquitetura, performance e boas práticas, contribuindo para a construção de aplicações modernas, escaláveis e bem estruturadas.
+
+## 📌 Atualmente estudando
+
+- Arquitetura em Angular
+- Padrões de projeto
+- Clean Code
+- Boas práticas com TypeScript
+
